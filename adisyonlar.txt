@@ -1,0 +1,8 @@
+=== Masa 2 Adisyonu ===
+ - Kola x 3 adet = 135.0 TL
+Hesap Toplamı: 135.0
+---------------------------
+=== Masa 1 Adisyonu ===
+ - Sufle x 2 adet = 180.0 TL
+Hesap Toplamı: 180.0
+---------------------------
